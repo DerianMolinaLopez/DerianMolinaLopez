@@ -1,7 +1,7 @@
 # 💫 ¿Quien soy?
 ### Derian Molina Lopez
 Estudiante de ingeniería en sistemas, iniciado en el desarrollo web del lado del front end<br>claro abierto al aprendizaje de tecnologías necesarias. <br></br>
-Con versatilidad en el manejo de lenguajes de programacion tanto tipado como sin tipado
+Con versatilidad en el manejo de lenguajes de programacion tanto tipado como sin tipado.
 
 
 
