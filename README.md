@@ -1,6 +1,6 @@
 # 💫 ¿Quien soy?
 ### Derian Molina Lopez
-Estudiante de ingeniería en sistemas computacionales. Iniciado en el desarrollo web, versatilidad en frontend y backend 
+Ingeniero en sistemas computacionales y desarrollador backend de miscroservicios
 
 
 
