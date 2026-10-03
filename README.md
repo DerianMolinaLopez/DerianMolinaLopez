@@ -83,34 +83,7 @@ Me especializo en tecnologías empresariales —**Java, Spring Boot, Python y SQ
 ![Figma](https://img.shields.io/badge/Figma-022B3D?style=for-the-badge&logo=figma&logoColor=08EDFB)
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-022B3D?style=for-the-badge)
 
-## `04` Experiencia
-
-### Desarrollador web · CapStudio
-`Nov 2025 — Ago 2026` · Culiacán, Sinaloa, México
-
-Tienda en línea de productos para iPhone, especializada en fundas personalizadas para distintos modelos.
-
-- Diseñé los procedimientos para gestionar pagos y pedidos, desde la compra hasta el seguimiento.
-- Implementé el flujo de pagos con Stripe y el ciclo de vida de los pedidos.
-- Configuré un entorno de pruebas con Stripe CLI, Kubernetes y pods para simular flujos reales de usuarios.
-- Diseñé las interfaces de personalización de fundas a partir de las especificaciones del cliente.
-
-`React` `Stripe` `Kubernetes` `Docker` `Git/GitHub`
-
-### Ingeniero de soporte · Softtek
-`Feb 2025 — Oct 2025` · Culiacán, Sinaloa, México
-
-Migración de sistemas logísticos legacy hacia una arquitectura moderna en Google Cloud.
-
-- Participé en la migración hacia Google Cloud, modernizando la arquitectura con Java y Spring Boot.
-- Configuré bases de datos SQL y variables de entorno para desarrollo, pruebas y producción.
-- Probé los componentes migrados y validé su funcionamiento antes de cada entrega.
-- Detecté y mitigué vulnerabilidades en los sistemas migrados.
-- Capacité al equipo en reglas de CI/CD y estrategia de ramas en Git.
-
-`Java` `Spring Boot` `Google Cloud` `SQL` `Git` `CI/CD`
-
-## `05` Proyecto destacado
+## `04` Proyecto destacado
 
 ### Agenda de un campo de golf
 Aplicación web full stack, en producción. Los jugadores organizan sus salidas, invitan a otros jugadores y confirman su asistencia, mientras la administración controla la ocupación del campo, los horarios y las cuentas.
@@ -125,7 +98,7 @@ Aplicación web full stack, en producción. Los jugadores organizan sus salidas,
 
 [![Ver aplicación](https://img.shields.io/badge/Ver_aplicación-08EDFB?style=for-the-badge&logoColor=011F2D)](https://frontend-react-golf.web.app/login)
 
-## `06` GitHub
+## `05` GitHub
 
 <div align="center">
 
@@ -134,7 +107,7 @@ Aplicación web full stack, en producción. Los jugadores organizan sus salidas,
 
 </div>
 
-## `07` Contacto
+## `06` Contacto
 
 ¿Tienes una idea, una vacante o un proyecto en mente? Escríbeme y te respondo lo antes posible.
 
