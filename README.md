@@ -83,22 +83,7 @@ Me especializo en tecnologías empresariales —**Java, Spring Boot, Python y SQ
 ![Figma](https://img.shields.io/badge/Figma-022B3D?style=for-the-badge&logo=figma&logoColor=08EDFB)
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-022B3D?style=for-the-badge)
 
-## `04` Proyecto destacado
-
-### Agenda de un campo de golf
-Aplicación web full stack, en producción. Los jugadores organizan sus salidas, invitan a otros jugadores y confirman su asistencia, mientras la administración controla la ocupación del campo, los horarios y las cuentas.
-
-- **Agenda de jugadas:** 49 horarios de salida por día, con validación de disponibilidad.
-- **Invitaciones por correo:** el anfitrión invita hasta 3 jugadores, con confirmaciones y avisos automáticos.
-- **Titulares y referidos:** planes Individual y Familiar, con vínculos que aprueba el titular.
-- **Panel de administración:** calendario de ocupación, gestión de cuentas y control de jugadas.
-- **Cuentas seguras:** registro con confirmación por correo y recuperación de contraseña con código.
-
-`Spring Boot` `React` `Tailwind CSS` `PostgreSQL`
-
-[![Ver aplicación](https://img.shields.io/badge/Ver_aplicación-08EDFB?style=for-the-badge&logoColor=011F2D)](https://frontend-react-golf.web.app/login)
-
-## `05` GitHub
+## `04` GitHub
 
 <div align="center">
 
@@ -107,7 +92,7 @@ Aplicación web full stack, en producción. Los jugadores organizan sus salidas,
 
 </div>
 
-## `06` Contacto
+## `05` Contacto
 
 ¿Tienes una idea, una vacante o un proyecto en mente? Escríbeme y te respondo lo antes posible.
 
